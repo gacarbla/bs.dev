@@ -1,5 +1,5 @@
 {
-  "name": "bs.dev",
+  "name": "bsdev",
   "version": "0.0.1",
   "workspaces": [
     "packages/*"

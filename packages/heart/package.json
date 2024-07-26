@@ -1,6 +1,6 @@
 {
   "name": "@bsdev/heart",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1+d91da40",
   "description": "",
   "author": "gacarbla <gacarbla@gacarbla.es>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "build": "tsc",
     "test": "node ./__tests__/heart.test.js"
   },
-  "gitHead": "f46399c794ae4dffcf107c3b9183294cc88db210",
+  "gitHead": "d91da40184b46ffad260e105b1fa0d2b24b5412c",
   "publishConfig": {
     "access": "public"
   }
