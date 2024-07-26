@@ -17,5 +17,8 @@
     "build": "tsc",
     "test": "node ./__tests__/heart.test.js"
   },
-  "gitHead": "b2abf2b63f5ac3ecced398d0d29020440596da9e"
+  "gitHead": "f46399c794ae4dffcf107c3b9183294cc88db210",
+  "publishConfig": {
+    "access": "public"
+  }
 }
