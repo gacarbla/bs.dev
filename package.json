@@ -1,0 +1,16 @@
+{
+  "name": "bs.dev",
+  "version": "0.0.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@bsdev/heart": "^0.0.1",
+    "@bsdev/build": "^0.0.1",
+    "@bsdev/utils": "^0.0.1"
+  },
+  "devDependencies": {
+    "lerna": "^8.1.7",
+    "typescript": "^5.5.4"
+  }
+}
