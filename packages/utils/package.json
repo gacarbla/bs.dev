@@ -17,5 +17,5 @@
     "build": "tsc",
     "test": "node ./__tests__/utils.test.js"
   },
-  "gitHead": "a36f8c0f860f243d60f902e1a541316060a85811"
+  "gitHead": "b2abf2b63f5ac3ecced398d0d29020440596da9e"
 }
