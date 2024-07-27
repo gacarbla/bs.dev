@@ -1,5 +1,5 @@
 {
-  "name": "bsdev",
+  "name": "@bsdev/bsdev",
   "version": "0.0.1",
   "workspaces": [
     "packages/*"
@@ -15,5 +15,8 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "author": "gacarbla",
+  "license": "ISC",
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "name": "@bsdev/build",
-  "version": "0.0.1-alpha.1+d91da40",
+  "version": "0.0.1-alpha.2+e50616f",
   "description": "",
   "private": false,
   "author": "gacarbla <gacarbla@gacarbla.es>",
@@ -18,7 +18,7 @@
     "build": "tsc",
     "test": "node ./__tests__/build.test.js"
   },
-  "gitHead": "d91da40184b46ffad260e105b1fa0d2b24b5412c",
+  "gitHead": "e50616f9e50a3ff35307e5323b15d8334d420971",
   "publishConfig": {
     "access": "public"
   }
